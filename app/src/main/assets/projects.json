@@ -1,0 +1,30 @@
+[
+  {
+    "projectName": "Main Road Repair",
+    "projectDesc": "Repairing damaged village main road",
+    "projectDeadline": "20 June 2026",
+    "projectStatus": "In Progress",
+    "progressPercent": 65
+  },
+  {
+    "projectName": "Borewell Installation",
+    "projectDesc": "Installing new drinking water borewell",
+    "projectDeadline": "15 July 2026",
+    "projectStatus": "In Progress",
+    "progressPercent": 10
+  },
+  {
+    "projectName": "Community Hall Renovation",
+    "projectDesc": "Renovation of village community hall",
+    "projectDeadline": "10 August 2026",
+    "projectStatus": "Completed",
+    "progressPercent": 100
+  },
+  {
+    "projectName": "Street Light Installation",
+    "projectDesc": "Installing solar-powered street lights",
+    "projectDeadline": "5 September 2026",
+    "projectStatus": "Not Started",
+    "progressPercent": 0
+  }
+]
